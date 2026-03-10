@@ -68,7 +68,7 @@ I love learning new technologies and improving my development skills every day.
 ## 📫 Let's Connect
 
 - 💼 LinkedIn: www.linkedin.com/in/angelicaortizbarrantes
-- 💻 GitHub: github.com/GreilynES
+- 💻 GitHub: github.com/Ortiz0022
 - 📧 Email: ortiz.barrantes.angelica@gmail.com
 
 ---
