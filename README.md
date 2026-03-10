@@ -60,5 +60,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Ortiz0022/Ortiz0022/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/Ortiz0022/Ortiz0022/output/snake.svg)
 
 ###
