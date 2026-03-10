@@ -1,17 +1,12 @@
 <h2 align="start">Hi! I'm Angélica Ortiz</h2>
 <h3 align="start">Software Developer | Systems Engineering Student</h3>
 
----
-
 ##  About Me
 
--  Systems Engineering student
 -  Full-stack developer
 -  Costa Rica
 -  Interested in building useful digital solutions
 -  Always learning new technologies
-
----
 
 ##  Tech Stack
 
@@ -30,14 +25,9 @@ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
 ![SQLServer](https://img.shields.io/badge/SQLServer-CC2927?style=flat&logo=microsoftsqlserver)
 
----
-
 ##  GitHub Stats
----
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ortiz0022&theme=radical)](https://git.io/streak-stats)
-
----
 
 ##  Contact
 
