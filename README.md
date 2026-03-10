@@ -5,11 +5,11 @@
 
 ##  About Me
 
-- 🎓 Systems Engineering student
-- 💻 Full-stack developer
-- 🌎 Costa Rica
-- 🚀 Interested in building useful digital solutions
-- 📚 Always learning new technologies
+-  Systems Engineering student
+-  Full-stack developer
+-  Costa Rica
+-  Interested in building useful digital solutions
+-  Always learning new technologies
 
 ---
 
@@ -33,20 +33,7 @@ Databases
 ---
 
 ##  GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ortiz0022&show_icons=true&theme=radical"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ortiz0022&theme=radical"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ortiz0022&layout=compact&theme=radical"/>
-
-</p>
-
 ---
-
-## Activity Graph
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ortiz0022&theme=radical)](https://git.io/streak-stats)
 
