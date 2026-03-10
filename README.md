@@ -1,37 +1,51 @@
-<h2 align="start">Hi! I'm Angélica Ortiz</h2>
-<h3 align="start">Software Developer | Systems Engineering Student</h3>
+<h2 align="left">Hi! My name is Angélica and I'm a Systems Engineering Student</h2>
 
-##  About Me
+###
 
--  Full-stack developer
--  Costa Rica
--  Interested in building useful digital solutions
--  Always learning new technologies
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+</div>
 
-##  Tech Stack
+###
 
-Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat&logo=tailwindcss)
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-Backend  
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=flat&logo=node.js)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet)
-
-Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
-![SQLServer](https://img.shields.io/badge/SQLServer-CC2927?style=flat&logo=microsoftsqlserver)
-
-##  GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ortiz0022&theme=radical)](https://git.io/streak-stats)
-
-##  Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angélica%20Ortiz-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ortiz.barrantes.angelica@gmail.com)
-
+###
