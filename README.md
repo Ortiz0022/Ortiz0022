@@ -26,7 +26,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/angelica-ortiz-barrantes" target="_blank">
+  <a href="https://www.linkedin.com/in/angelicaortizbarrantes" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Angélica%20Ortiz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
